@@ -7,7 +7,6 @@ def nestedSum(l):
             total+=item
     return total
 
-listt=[1,[2,3,[3]],90,[2,8]]  
-#listt=eval(input("Enter list:"))   
+listt=[1,[2,3,[3]],90,[2,8]]    
 totalSum=nestedSum(listt)
 print(f'Sum of items in nested List are:{totalSum}')       
