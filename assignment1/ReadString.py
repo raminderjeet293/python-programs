@@ -1,5 +1,5 @@
 str = input("Enter the string: ")
-with open("output.txt", "a") as file:
+with open("output1.txt", "a") as file:
     file.write(str + "\n")
 print("String appended successfully")
 

@@ -1,0 +1,2 @@
+It is a file handling code.
+python -u "d:\MCA\sem2\python\Python_lab\python\ReadString.py"
