@@ -24,7 +24,7 @@ lname = input("Enter last name: ")
 bank_account = BankAccount(fname, lname)
 
 while True:
-    print("\n📋 ==== BANK MENU ====")
+    print("\n==== BANK MENU ====")
     print("1. Deposit")
     print("2. Withdraw")
     print("3. Display Account Info")
